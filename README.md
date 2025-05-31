@@ -1,4 +1,4 @@
-#✋💡 Hand-Gesture-Based-Screen-Brightness-Control
+# ✋💡 Hand-Gesture-Based-Screen-Brightness-Control
 
 **📌 Synopsis:** This project implements a real-time, hand gesture-based system to control screen brightness using OpenCV, MediaPipe, and Screen Brightness Control (SBC).
 👉 By tracking the distance between the thumb and index finger, the system dynamically adjusts brightness, providing a touchless and intuitive user experience.
