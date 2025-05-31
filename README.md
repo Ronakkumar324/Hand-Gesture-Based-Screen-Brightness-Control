@@ -9,11 +9,15 @@
 
 **🧰 Methodology:**
 
-•	✋ Used MediaPipe Hands for real-time 21-point hand landmark detection.
-•	📹 Processed video frames with OpenCV.
-•	📏 Calculated Euclidean distance between thumb and index finger tips.
-•	🔁 Mapped distance to brightness levels via NumPy interpolation.
-•	💻 Controlled brightness using the SBC (Screen Brightness Control) library.
+1. 	✋ Used MediaPipe Hands for real-time 21-point hand landmark detection.
+
+2. 	📹 Processed video frames with OpenCV.
+
+3. 	📏 Calculated Euclidean distance between thumb and index finger tips.
+
+4. 	🔁 Mapped distance to brightness levels via NumPy interpolation.
+
+5. 	💻 Controlled brightness using the SBC (Screen Brightness Control) library.
 
 
 **🎯 Expected Outcome:** 
